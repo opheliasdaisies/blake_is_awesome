@@ -36,6 +36,7 @@ MAIN PAGE (Dos Equis Commercial)
 ----------------
 Hannah - CSS <br/>
 Nisha - CSS/Ruby <br/>
+Gus - Anything <br/>
 
 
 SIDE PROJECTS
