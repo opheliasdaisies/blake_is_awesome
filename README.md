@@ -34,8 +34,8 @@ If you just want to contribute ideas, that's cool too, just write them at the bo
 
 MAIN PAGE (Dos Equis Commercial)
 ----------------
-Hannah - CSS \n
-Nisha - CSS/Ruby \n
+Hannah - CSS <br/>
+Nisha - CSS/Ruby <br/>
 
 
 SIDE PROJECTS
