@@ -34,8 +34,10 @@ If you just want to contribute ideas, that's cool too, just write them at the bo
 
 MAIN PAGE (Dos Equis Commercial)
 ----------------
+(Please be specific and include a status: Not started, In process, or Completed). <br/>
+
 Hannah - CSS <br/>
-Nisha - CSS/Ruby <br/>
+Nisha - Creating a database w/active record (Status: In process) <br/>
 Gus - Anything <br/>
 
 

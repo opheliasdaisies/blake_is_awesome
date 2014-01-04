@@ -1,8 +1,6 @@
-class Blake
-  attr_accessor :phrases
+class Compliment
+  attr_accessor :phrase
   
-  def phrases
-
+  def initialize
   end
-
 end
