@@ -1,0 +1,12 @@
+<h2> Edit this compliment </h2>
+<h3><%= @compliment.description %> </h3>
+
+<form action="/compliments/<%=@compliment.id%>" method="POST">
+  <input type="hidden" name="_method" value="PUT">
+  <input type="textarea" size="100" name="compliment[description]" value="<%=@compliment.description%>"placeholder="Enter new compliment here.">
+  <br/><br/>
+  <a href="/compliments"><button type="button">Cancel</button></a>
+  <button type="submit" value="Update">Save</button>
+</form>
+
+  

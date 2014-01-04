@@ -1,0 +1,10 @@
+<h2> <%= "Are you sure you want to delete the compliment '#{@compliment.description}'?" %> </h2>
+
+<form action="/compliments/<%=@compliment.id%>" method="POST">
+  <input type="hidden" name="_method" value="DELETE">
+  <button type="submit" value="Delete">Delete</button>
+  <a href="/compliments">
+    <button type="button">Cancel</button>
+  </a>
+</form>
+

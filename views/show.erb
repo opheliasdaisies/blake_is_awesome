@@ -1,0 +1,16 @@
+<h2> All Compliments </h2>
+
+<a href="/compliments/new"><button> Create new </button></a>
+
+<% @compliments.each do |compliment| %>
+  <ul>
+    <li> 
+      <%= compliment.description %>
+      <br/>
+      <a href="/compliments/edit/<%=compliment.id%>"> Edit </a>
+      <a href="/compliments/delete/<%=compliment.id%>">  Delete </a>
+    </li>
+  </ul>
+<% end %>
+
+

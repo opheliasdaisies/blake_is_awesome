@@ -1,0 +1,7 @@
+<h2> Add a new compliment </h2>
+
+<form action="/compliments" method="POST">
+  <input type="textarea" size="100" name="compliment[description]" value="<%=@compliment.description%>"placeholder="Enter new compliment here.">
+  <br/><br/>
+  <button type="submit" value="Create">Save</button>
+</form>
