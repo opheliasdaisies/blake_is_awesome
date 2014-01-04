@@ -1,5 +1,7 @@
 require 'bundler'
 Bundler.require
+require './lib/compliment.rb'
+
 
 module Blake
   class Awesome < Sinatra::Application

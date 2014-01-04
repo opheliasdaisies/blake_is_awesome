@@ -49,7 +49,6 @@ Hannah - CSS <br/>
 - create a main page that let's you play the commercial and also gives the option to add a new compliment
 
 
-
 SIDE PROJECTS
 -----------------
 If you are working on a new route, describe it here.
