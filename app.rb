@@ -8,6 +8,7 @@ module Blake
   class Awesome < Sinatra::Application
     
     get '/' do
+      @compliments = Compliment.all
       erb :index
     end
 
