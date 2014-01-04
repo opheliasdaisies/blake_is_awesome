@@ -9,7 +9,7 @@ Sara has graciously reserved the domain blakeisaweso.me for his majesty.
 
 COLLABORATING
 ================
-We can all collaborate on this, but want to avoid any merge conflicts, so please follow these guidelines:
+We want everyone to get involved on this, but want to avoid any merge conflicts, so please follow these guidelines:
 
 GIT
 --------------- 
@@ -19,14 +19,13 @@ Please make your commit messages as descriptive as possible so everyone can see 
 
 When you make any changes, make sure to always 'git pull' before 'git push' and don't forget to commit your changes early and often. If anything is acting funky, just ask us!
 
-
 Finally, please be mindful of keeping it a secret from Blake and Ashley (i.e. not putting it up on the monitors when they are around and using code names).
 
 YAY BK-000!
 
 CONTRIBUTORS
 ================
-This is a list of what people are working. If you want to contribute, just add your name to the list and let Sara/Nisha know before you start working on something to avoid any potential merge conflicts. 
+This is a list of what people are working on. If you want to contribute, just add your name to the list and let everyone know on the main email thread before you start working on something to avoid any potential merge conflicts. 
 
 Given the scope of the idea isn't terribly large and we are 28 people, if you have a different idea for the site, you can create a new route and implement your idea there.
 
@@ -36,15 +35,36 @@ MAIN PAGE (Dos Equis Commercial)
 ----------------
 (Please be specific and include a status: Not started, In process, or Completed). <br/>
 
-Hannah - CSS <br/>
 Nisha - Creating a database w/active record (Status: In process) <br/>
 Gus - Anything <br/>
+Hannah - CSS <br/>
+
+*** TO DOs ***
+- create a database to store the compliments (Status: in process)
+- create a list of compliments
+- find an image of blake to use
+- add logic to app.rb to list 20 random compliments
+- use jquery to display each compliment, one by one
+- design the font for the compliments and background styles
+- create a main page that let's you play the commercial and also gives the option to add a new compliment
+
 
 
 SIDE PROJECTS
 -----------------
-If you are working on a different route, list it here.
+If you are working on a new route, describe it here.
 
 
 IDEAS
------------------
+================
+- use jquery to fade in/out compliments one by one
+- stream background music from Dos Equis commercial
+- at the end show photo of blake and say "He is the most awesome man in the world"
+
+
+COMPLIMENTS
+- His code is so dry, that cactuses have begun to emerge in it (NB)
+- When he surfs, even the fish stop to watch (NB)
+
+
+
