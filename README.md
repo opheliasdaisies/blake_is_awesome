@@ -35,13 +35,12 @@ MAIN PAGE (Dos Equis Commercial)
 ----------------
 (Please be specific and include a status: Not started, In process, or Completed). <br/>
 
-Nisha - Creating a database w/active record (Complete) <br/>
+Nisha - Create a database w/active record (Complete) <br/>
 Gus - Create list of compliments (In Progress) <br/>
 Nikki - Animate Blake's comments (Not started)
 Hannah - CSS <br/>
 
 *** TO DOs ***
-- create a database to store the compliments (Nisha)
 - create a list of compliments (Gus)
 - find an image of blake to use
 - add logic to app.rb to list 20 random compliments
