@@ -5,8 +5,8 @@
 <% @compliments.each do |compliment| %>
   <ul>
     <li> 
-      <%= compliment.description %>
-      <br/>
+      <%= compliment.description %><br/>
+      Written by: <%= compliment.author %><br/>
       <a href="/compliments/edit/<%=compliment.id%>"> Edit </a>
       <a href="/compliments/delete/<%=compliment.id%>">  Delete </a>
     </li>

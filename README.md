@@ -37,14 +37,15 @@ MAIN PAGE (Dos Equis Commercial)
 
 Nisha - Creating a database w/active record (Status: In process) <br/>
 Gus - Create list of compliments (In Progress) <br/>
+Nikki - Animate Blake's comments (Not started)
 Hannah - CSS <br/>
 
 *** TO DOs ***
-- create a database to store the compliments (Status: in process)
-- create a list of compliments (In progress)
+- create a database to store the compliments (Nisha)
+- create a list of compliments (Gus)
 - find an image of blake to use
 - add logic to app.rb to list 20 random compliments
-- use jquery to display each compliment, one by one
+- use jquery to display each compliment, one by one (Nikki)
 - design the font for the compliments and background styles
 - create a main page that let's you play the commercial and also gives the option to add a new compliment
 

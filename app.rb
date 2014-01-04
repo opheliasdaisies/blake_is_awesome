@@ -16,7 +16,7 @@ module Blake
     # ROUTES FOR CRUD COMPLIMENTS
     get '/compliments' do
       @compliments = Compliment.all
-      erb :crud/show
+      erb :show
     end
 
     # page for new compliment
