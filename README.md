@@ -36,12 +36,12 @@ MAIN PAGE (Dos Equis Commercial)
 (Please be specific and include a status: Not started, In process, or Completed). <br/>
 
 Nisha - Creating a database w/active record (Status: In process) <br/>
-Gus - Anything <br/>
+Gus - Create list of compliments (In Progress) <br/>
 Hannah - CSS <br/>
 
 *** TO DOs ***
 - create a database to store the compliments (Status: in process)
-- create a list of compliments
+- create a list of compliments (In progress)
 - find an image of blake to use
 - add logic to app.rb to list 20 random compliments
 - use jquery to display each compliment, one by one
