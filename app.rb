@@ -2,6 +2,7 @@ require 'bundler'
 Bundler.require
 require './lib/compliment.rb'
 
+DataMapper.setup(:default, ENV['DATABASE_URL'] || "sqlite3://#{Dir.pwd}/compliments.db")
 
 module Blake
   class Awesome < Sinatra::Application
@@ -19,3 +20,4 @@ module Blake
   end
 end
 
+DataMapper.auto_upgrade!
