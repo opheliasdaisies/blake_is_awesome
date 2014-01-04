@@ -35,7 +35,7 @@ MAIN PAGE (Dos Equis Commercial)
 ----------------
 (Please be specific and include a status: Not started, In process, or Completed). <br/>
 
-Nisha - Creating a database w/active record (Status: In process) <br/>
+Nisha - Creating a database w/active record (Complete) <br/>
 Gus - Create list of compliments (In Progress) <br/>
 Nikki - Animate Blake's comments (Not started)
 Hannah - CSS <br/>
