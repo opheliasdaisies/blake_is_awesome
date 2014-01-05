@@ -39,6 +39,7 @@ Nisha - Create a database w/active record (Complete) <br/>
 Gus - Create list of compliments (In Progress) <br/>
 Nikki - Animate Blake's comments (Not started)
 Hannah - CSS <br/>
+Sarah - More compliments, will send to Gus (In Progress) https://docs.google.com/document/d/1zRdqpJ9al5qukRJ96ZqMnHvxzi2QxCSiK7IKTmd-QuY/edit <br>
 
 *** TO DOs ***
 - create a list of compliments (Gus)
