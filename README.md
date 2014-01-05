@@ -65,6 +65,9 @@ IDEAS
 COMPLIMENTS
 - His code is so dry, that cactuses have begun to emerge in it (NB)
 - When he surfs, even the fish stop to watch (NB)
+- No one can eat a salad as awesomely as he does (AI)
+- His hair is so awesome that it can be blow dried or not, no big thing (AI)
+
 
 
 
