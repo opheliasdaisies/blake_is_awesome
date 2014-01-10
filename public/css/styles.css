@@ -10,3 +10,21 @@ body {
 	top: 50%;
 	left: 20%;
 }
+
+.quotes {
+ display: none;
+ text-align: justify;
+ line-height: 200%;
+}
+
+div {
+	position:fixed;
+	top:30%;
+	left:20%;
+	font-size: 1.5em;
+}
+
+img {
+	position: relative;
+	left: 40%;
+}
