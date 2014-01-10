@@ -43,9 +43,9 @@ Sarah - More compliments, will send to Gus (We have twenty now) https://docs.goo
 
 *** TO DOs ***
 - create a list of compliments (Completed)
-- find an image of blake to use
+- find an image of blake to use (Completed)
 - add logic to app.rb to list 20 random compliments
-- use jquery to display each compliment, one by one (Nikki)
+- use jquery to display each compliment, one by one (Completed)
 - design the font for the compliments and background styles
 - create a main page that let's you play the commercial and also gives the option to add a new compliment
 
