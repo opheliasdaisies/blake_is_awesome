@@ -6,7 +6,7 @@ class Compliment
   property :created_at, DateTime
   property :updated_at, DateTime
 
-  def format_casing(quote)
+  def format_casing
     
   end
 end

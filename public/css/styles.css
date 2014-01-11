@@ -32,6 +32,8 @@ body {
 .image {
 	position: relative;
 	margin: 0 auto;
+	margin-top: -125px;
+	margin-bottom: 50px;
 	width: 330px;
 	height: 330px;	
 }

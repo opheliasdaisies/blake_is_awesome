@@ -2,8 +2,6 @@
 <html>
   <head>
     <title>Blake is Awesome</title>
-
-    <link href='http://fonts.googleapis.com/css?family=Rosarivo:400,400italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Cardo:400,400italic,700' rel='stylesheet' type='text/css'>
      
     <link href="/css/styles.css" rel="stylesheet" type="text/css"/>
@@ -23,9 +21,9 @@
       function showNextQuote() {
         ++quoteIndex;
         quotes.eq(quoteIndex % quotes.length)
-            .fadeIn(2000)
-            .delay(2000)
-            .fadeOut(2000, showNextQuote);
+            .fadeIn(1700)
+            .delay(1500)
+            .fadeOut(1700, showNextQuote);
       }
       showNextQuote();
     })();
