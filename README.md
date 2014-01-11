@@ -39,15 +39,18 @@ Nisha - Create a database w/active record (Complete) <br/>
 Gus - Create list of compliments (We have 20 now) <br/>
 Nikki - Animate Blake's comments (Not started)
 Hannah - CSS <br/>
+Gus - use jquery to fade in/out compliments one by one (Completed)
 Sarah - More compliments, will send to Gus (We have twenty now) https://docs.google.com/document/d/1zRdqpJ9al5qukRJ96ZqMnHvxzi2QxCSiK7IKTmd-QuY/edit <br>
+Nisha - Style text and add youtube clip (Complete) <br/>
 
 *** TO DOs ***
 - create a list of compliments (Completed)
 - find an image of blake to use (Completed)
 - add logic to app.rb to list 20 random compliments
 - use jquery to display each compliment, one by one (Completed)
-- design the font for the compliments and background styles
+- design the font for the compliments and background styles (Completed)
 - create a main page that let's you play the commercial and also gives the option to add a new compliment
+- use jquery to fade in/out compliments one by one (Completed)
 
 
 SIDE PROJECTS
@@ -57,7 +60,7 @@ If you are working on a new route, describe it here.
 
 IDEAS
 ================
-- use jquery to fade in/out compliments one by one
+- use jquery to fade in/out compliments one by one 
 - stream background music from Dos Equis commercial
 - at the end show photo of blake and say "He is the most awesome man in the world"
 
