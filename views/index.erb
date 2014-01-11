@@ -1,9 +1,15 @@
-<% @compliments.each do |compliment| %>
-  <h1 class="quotes"> <%= compliment.description %> </h1>
+<div class="container">
+  <% @compliments.each do |compliment| %>
+    <h1 class="quotes"> <%= compliment.description %> </h1>
+  <% end %>
 
-<% end %>
   <h1 class="quotes">He is ...</h1>
-<div class ="quotes"> 
-  <h1>The most awesome man in the world<h1>
-    <img src="/images/blake.jpg">
+  <div class="quotes"> 
+    <h1 class="lastquote">The awesomest man in the world</h1>  
+    <div class="image">
+      <img src="/images/goldframe.jpg" class="frame">
+      <img src="/images/goldchainz.jpg" class="blake">
+    </div> 
+    
+  </div>
 </div>

@@ -5,4 +5,8 @@ class Compliment
   property :author, String
   property :created_at, DateTime
   property :updated_at, DateTime
+
+  def format_casing(quote)
+    
+  end
 end

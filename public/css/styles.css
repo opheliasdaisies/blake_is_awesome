@@ -1,30 +1,51 @@
 body {
 	background-color: #000;
 	color: #fff;
-	font-family: georgia, times new roman, serif;
-	font-weight: 500;
+	font-family: 'Cardo', serif;
 	font-size: 14px;
 	line-height: 120%;
-	text-align: center;
-	position: absolute;
-	top: 50%;
-	left: 20%;
+	/*position: absolute;*/
+	/*top: 50%;*/
 }
 
 .quotes {
  display: none;
- text-align: justify;
  line-height: 200%;
+ font-weight: 200;
+ letter-spacing: 3px;
 }
 
-div {
-	position:fixed;
-	top:30%;
-	left:20%;
+
+.lastquote {
+ line-height: 200%;
+ font-weight: 200;
+ letter-spacing: 3px;	
+}
+
+.container {
+	margin: 15% auto;
+	width: 75%;
+	text-align: center;
 	font-size: 1.5em;
 }
 
-img {
+.image {
 	position: relative;
-	left: 40%;
+	margin: 0 auto;
+	width: 330px;
+	height: 330px;	
 }
+
+img.frame {
+	position: absolute;
+	width: 100%;
+	height: 110%;
+	top: 0;
+	left: 0;
+}
+
+img.blake {
+	position: relative;
+	top: 45px;
+}
+
