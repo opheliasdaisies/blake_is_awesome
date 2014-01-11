@@ -2,6 +2,7 @@ require 'bundler'
 Bundler.require
 require './lib/compliment.rb'
 
+
 DataMapper.setup(:default, ENV['DATABASE_URL'] || "sqlite3://#{Dir.pwd}/compliments.db")
 
 module Blake
@@ -10,6 +11,11 @@ module Blake
     # MAIN PAGE
     get '/' do
       @compliments = Compliment.all
+      @compliments.each do |compliment|
+        compliment.format_casing
+        compliment.save
+      end
+      @compliments.save
       erb :index
     end
 

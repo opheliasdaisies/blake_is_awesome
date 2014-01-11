@@ -11,14 +11,15 @@ body {
 .quotes {
  display: none;
  line-height: 200%;
- font-weight: 200;
+ font-weight: 100;
  letter-spacing: 3px;
+ font-style: italic;
 }
 
 
 .lastquote {
  line-height: 200%;
- font-weight: 200;
+ font-weight: 100;
  letter-spacing: 3px;	
 }
 
