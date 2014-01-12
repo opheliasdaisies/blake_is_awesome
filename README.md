@@ -37,12 +37,15 @@ MAIN PAGE (Dos Equis Commercial)
 
 Nisha - Create a database w/active record (Complete) <br/>
 Gus - Create list of compliments (We have 20 now) <br/>
+
 Nikki (Sunday 12/1/14 THIS IS HOW THE REST OF THE WORLD FORMATS DATES OK)
 - Made animation stop on the final frame of Blake
 - Added super long audio loop
 - Faded out audio at end of animation
 - Added a play again button
 - Added capability to restart the entire animation and audio upon pressing the restart button
+- Deployed app to Heroku and added production database
+
 Hannah - CSS <br/>
 Gus - use jquery to fade in/out compliments one by one (Completed)
 Sarah - More compliments, will send to Gus (We have twenty now) https://docs.google.com/document/d/1zRdqpJ9al5qukRJ96ZqMnHvxzi2QxCSiK7IKTmd-QuY/edit <br>
