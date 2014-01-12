@@ -12,21 +12,8 @@
   <body>
       
       <%= yield %>
-
+    <script type="text/javascript" src="/javascript/application.js"></script>
   </body>
-  <script>
-    (function() {
-      var quotes = $(".quotes");
-      var quoteIndex = -1;
-      function showNextQuote() {
-        ++quoteIndex;
-        quotes.eq(quoteIndex % quotes.length)
-            .fadeIn(1700)
-            .delay(1500)
-            .fadeOut(1700, showNextQuote);
-      }
-      showNextQuote();
-    })();
-  </script>
+ 
 
 </html>
