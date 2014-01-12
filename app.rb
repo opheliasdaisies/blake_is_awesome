@@ -3,7 +3,8 @@ Bundler.require
 require './lib/compliment.rb'
 
 
-DataMapper.setup(:default, ENV['DATABASE_URL'] || "sqlite3://#{Dir.pwd}/compliments.db")
+# DataMapper.setup(:default, ENV['DATABASE_URL'] || "sqlite3://#{Dir.pwd}/compliments.db")
+DataMapper.setup(:default, ENV['DATABASE_URL'] || 'postgres://localhost/mydb')
 
 module Blake
   class Awesome < Sinatra::Application
