@@ -53,6 +53,22 @@ img.blake {
 }
 
 .button {
-	text-align: center;
 	display: none;
+}
+
+#replay {
+	text-align: center;
+	background-color: black;
+	border-radius: none;
+	border: solid 1px white;
+	color: white;
+	font-size: 12pt;
+	padding: 10px 30px;
+	font-family: 'Cardo', serif;
+	cursor: pointer;
+}
+
+#replay:hover {
+	background-color: white;
+	color: black;
 }
