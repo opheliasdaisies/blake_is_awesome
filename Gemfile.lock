@@ -68,6 +68,7 @@ GEM
     json (1.8.1)
     json_pure (1.8.1)
     multi_json (1.8.4)
+    pg (0.17.1)
     rack (1.5.2)
     rack-protection (1.5.1)
       rack
@@ -104,6 +105,7 @@ DEPENDENCIES
   debugger
   dm-postgres-adapter
   dm-sqlite-adapter
+  pg
   shotgun
   sinatra
   tux
