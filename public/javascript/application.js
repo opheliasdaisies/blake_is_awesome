@@ -6,9 +6,9 @@ function showNext() {
   audio.play();
   ++quoteIndex;
   if (quoteIndex == quotes.length - 1) {
-    console.log("hit");
     quotes.eq(quoteIndex).fadeIn(1700);
-    $("#audio").animate({volume: 0}, 8000);
+    $("#audio").animate({volume: 0}, 7000);
+    $(".button").delay(5000).fadeIn(1700);
   }
   else {
     quotes.eq(quoteIndex)
@@ -19,6 +19,15 @@ function showNext() {
 }
 
 showNext();
+
+$("#replay").click(function() {
+  audio.currentTime = 0;
+  audio.volume = 1;
+  quoteIndex = -1;
+  quotes.fadeOut(0);
+  $(".button").fadeOut(0);
+  showNext();
+});
 
  // <script>
  //    (function() {

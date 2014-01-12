@@ -52,3 +52,7 @@ img.blake {
 	top: 45px;
 }
 
+.button {
+	text-align: center;
+	display: none;
+}
