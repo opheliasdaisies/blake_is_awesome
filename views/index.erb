@@ -1,6 +1,6 @@
 
 <div class="container">
-  <% @compliments.shuffle.each do |compliment| %>
+  <% @compliments.each do |compliment| %>
     <h1 class="quotes"> <%= compliment.description %> </h1>
   <% end %>
 
