@@ -44,6 +44,7 @@ Nikki (Sunday 12/1/14 THIS IS HOW THE REST OF THE WORLD FORMATS DATES OK)
 - Faded out audio at end of animation
 - Added a play again button
 - Added capability to restart the entire animation and audio upon pressing the restart button
+- Randomized compliment order
 - Deployed app to Heroku and added production database
 
 Hannah - CSS <br/>
